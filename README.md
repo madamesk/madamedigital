@@ -1,1 +1,2 @@
 # madamedigital
+Übungscode Python
